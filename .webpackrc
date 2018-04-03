@@ -16,7 +16,7 @@
   "html": {
     "template": "./src/index.ejs"
   },
-  "publicPath": "/",
+  "publicPath": "https://kezf.github.io/cpay-msp-web",
   "disableDynamicImport": true,
   "hash": true
 }
